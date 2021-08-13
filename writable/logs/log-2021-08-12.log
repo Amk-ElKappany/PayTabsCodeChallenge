@@ -1,0 +1,19 @@
+ERROR - 2021-08-12 11:35:12 --> Invalid default value for 'created_at'
+ERROR - 2021-08-12 11:37:20 --> Invalid default value for 'created_at'
+ERROR - 2021-08-12 11:58:26 --> Unknown table 'paytabs.blog'
+ERROR - 2021-08-12 11:58:39 --> Invalid default value for 'created_at'
+ERROR - 2021-08-12 12:00:13 --> Unknown table 'paytabs.blog'
+ERROR - 2021-08-12 12:00:17 --> Invalid default value for 'created_at'
+ERROR - 2021-08-12 12:01:44 --> Unknown table 'paytabs.blog'
+ERROR - 2021-08-12 12:01:52 --> Invalid default value for 'created_at'
+ERROR - 2021-08-12 12:02:54 --> Unknown table 'paytabs.categories'
+ERROR - 2021-08-12 12:02:59 --> Invalid default value for 'created_at'
+ERROR - 2021-08-12 12:07:35 --> Unknown table 'paytabs.categories'
+ERROR - 2021-08-12 12:08:45 --> Invalid default value for 'created_at'
+ERROR - 2021-08-12 12:09:19 --> Unknown table 'paytabs.categories'
+ERROR - 2021-08-12 12:15:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DELETE CURRENT_TIMESTAMP,
+	CONSTRAINT `pk_categories` PRIMARY KEY(`id`)
+) DEFAUL' at line 7
+ERROR - 2021-08-12 12:15:16 --> Unknown table 'paytabs.categories'
+ERROR - 2021-08-12 12:15:25 --> Invalid default value for 'updated_at'
+ERROR - 2021-08-12 12:15:44 --> Unknown table 'paytabs.categories'

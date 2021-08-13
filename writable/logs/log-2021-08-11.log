@@ -1,0 +1,84 @@
+CRITICAL - 2021-08-11 21:07:52 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:07:54 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:09:49 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:09:50 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:09:51 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:10:18 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:10:53 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:11:07 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:11:08 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:11:09 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:12:12 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
+CRITICAL - 2021-08-11 21:14:56 --> Class 'App\Models\Category' not found
+#0 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(928): App\Controllers\CategoriesController->index()
+#1 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoriesController))
+#2 /var/www/html/Paytabs/codeigntor4/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/Paytabs/codeigntor4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/amk/.config/composer/vendor/cpriego/valet-linux/server.php(204): require('/var/www/html/P...')
+#5 {main}
