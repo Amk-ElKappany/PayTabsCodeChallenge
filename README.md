@@ -36,3 +36,7 @@
 
 <h6>The seeded data organized as follow: </h6>
 <h6><a href="https://json-parser.com/e29e80f4/1">https://json-parser.com/e29e80f4/1</a></h6>
+
+<h5>Note:</h5>
+<h6>- Don't forget to put your env file.</h6>
+<h6>- Run the project in secure mode (Https) to load the assets correctly. </h6>
